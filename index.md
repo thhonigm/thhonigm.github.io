@@ -8,5 +8,7 @@ In den Science-Fiction-Romanen "Die bewohnte Insel", "Ein Käfer im Ameisenhaufe
 * wißbegierig
 * mitfühlend
 
-> Fürwahr: Es gibt Lügen, es gibt schamlose Lügen und es gibt ie Statistik.
+> Fürwahr: Es gibt Lügen, es gibt schamlose Lügen und es gibt die Statistik.
 > Aber, Freunde, lasst uns dabei die Psychologie nicht vergessen!
+
+<img src='https://avataaars.io/?avatarStyle=Transparent&topType=ShortHairShortCurly&accessoriesType=Blank&hairColor=Blonde&facialHairType=Blank&clotheType=Hoodie&clotheColor=Black&eyeType=Default&eyebrowType=Default&mouthType=Smile&skinColor=Light'/>
