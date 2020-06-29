@@ -7,3 +7,6 @@ In den Science-Fiction-Romanen "Die bewohnte Insel", "Ein Käfer im Ameisenhaufe
 * mutig
 * wißbegierig
 * mitfühlend
+
+> Fürwahr: Es gibt Lügen, es gibt schamlose Lügen und es gibt ie Statistik.
+> Aber, Freunde, lasst uns dabei die Psychologie nicht vergessen!
